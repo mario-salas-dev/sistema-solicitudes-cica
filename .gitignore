@@ -1,0 +1,6 @@
+.env
+credenciales.json
+solicitudes.db
+tarea.log
+__pycache__/
+*.pyc
